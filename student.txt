@@ -1,0 +1,5 @@
+reg no. -> name -> roll -> address
+111 hello 1 xyz
+222 hi 2 abc
+333 yo 3 iop
+444 sup 6 fgh
